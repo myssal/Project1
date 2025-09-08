@@ -1,0 +1,64 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="2658" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Người dùng " style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="-10" y="128" width="450" height="622" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="2" vertex="1">
+          <mxGeometry x="210" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="3.Điền thông tin đăng ký và nhấn đăng ký." style="rounded=1;" parent="2" vertex="1">
+          <mxGeometry x="120" y="242" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ofE1IKZhP1BckV__TYuj-32" value="1.Chọn đăng ký trên ứng dụng." style="rounded=1;" parent="2" vertex="1">
+          <mxGeometry x="120" y="152" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ofE1IKZhP1BckV__TYuj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.405;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2" source="5" target="ofE1IKZhP1BckV__TYuj-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9egA-n-uwzUiJ3B5Gmp-82" value="5.Người dùng điền mã xác thực và chọn&#xa;xác thực trên giao diện." style="rounded=1;" vertex="1" parent="2">
+          <mxGeometry x="110" y="392" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Hệ thống" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="440" y="128" width="320" height="622" as="geometry" />
+        </mxCell>
+        <mxCell id="uvt4-mb7bjSLwskbyc6D-61" value="6.Hệ thống thống thông báo đăng ký thành công &#xa;và quay trở lại giao diện đăng nhập." style="rounded=1;" parent="3" vertex="1">
+          <mxGeometry x="26.25" y="482" width="267.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofE1IKZhP1BckV__TYuj-31" value="2.Đưa ra giao diện đăng ký." style="rounded=1;" parent="3" vertex="1">
+          <mxGeometry x="13" y="152" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s9egA-n-uwzUiJ3B5Gmp-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="uvt4-mb7bjSLwskbyc6D-61" target="uvt4-mb7bjSLwskbyc6D-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="790" as="sourcePoint" />
+            <mxPoint x="601" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvt4-mb7bjSLwskbyc6D-66" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="3" vertex="1">
+          <mxGeometry x="145" y="572" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9egA-n-uwzUiJ3B5Gmp-80" value="4.Hệ thống kiểm tra tài khoản chưa tồn&#xa;tại trong hệ thống và mở giao diện xác thực." style="rounded=1;" vertex="1" parent="3">
+          <mxGeometry x="20" y="332" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ofE1IKZhP1BckV__TYuj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ofE1IKZhP1BckV__TYuj-32" target="ofE1IKZhP1BckV__TYuj-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofE1IKZhP1BckV__TYuj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ofE1IKZhP1BckV__TYuj-31" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9egA-n-uwzUiJ3B5Gmp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="s9egA-n-uwzUiJ3B5Gmp-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9egA-n-uwzUiJ3B5Gmp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9egA-n-uwzUiJ3B5Gmp-80" target="s9egA-n-uwzUiJ3B5Gmp-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9egA-n-uwzUiJ3B5Gmp-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s9egA-n-uwzUiJ3B5Gmp-82" target="uvt4-mb7bjSLwskbyc6D-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
