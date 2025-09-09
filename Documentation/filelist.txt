@@ -1,0 +1,78 @@
+Folder PATH listing for volume Main
+Volume serial number is 843B-0333
+F:.
+¦   filelist.txt
+¦   PTTKYC_Nhom18.docx
+¦   README.md
+¦   TaskAssignmetChart.md
+¦   tree.txt
+¦   
++---Diagram Files
+    +---Activity
+    ¦   +---NguoiDung
+    ¦   ¦       .$TaoPlaylist.drawio.bkp
+    ¦   ¦       Bao Cao Vi Pham.png
+    ¦   ¦       BaoCaoViPham.drawio
+    ¦   ¦       CapNhatThongTin.drawio
+    ¦   ¦       CapNhatThongTin.png
+    ¦   ¦       DangKy.drawio
+    ¦   ¦       DangKy.png
+    ¦   ¦       DangNhap.drawio
+    ¦   ¦       DangNhap.png
+    ¦   ¦       DangTaiNhac.drawio
+    ¦   ¦       DangTaiNhac.png
+    ¦   ¦       SuaPlaylist.drawio
+    ¦   ¦       SuaPlaylist.png
+    ¦   ¦       TaoPlaylist.drawio
+    ¦   ¦       TaoPlaylist.png
+    ¦   ¦       TheoDoiCasi.drawio
+    ¦   ¦       TheoDoiCaSi.png
+    ¦   ¦       TimNhac.drawio
+    ¦   ¦       TimNhac.png
+    ¦   ¦       XemLoiBaiHai.drawio
+    ¦   ¦       XemLoiBaiHat.png
+    ¦   ¦       XoaPlaylist.drawio
+    ¦   ¦       XoaPlaylist.png
+    ¦   ¦       YeuThich&ThemVaoPlaylist.drawio
+    ¦   ¦       YeuThich&ThemVaoPlaylist.png
+    ¦   ¦       
+    ¦   +---QuanTriVien
+    ¦           .$CapNhatNhac.drawio.bkp
+    ¦           .$ThemNhac.drawio.bkp
+    ¦           .$XoaNguoiDung.drawio.bkp
+    ¦           CapNhatNhac.drawio
+    ¦           CapNhatNhac.png
+    ¦           DuyetNhac.drawio
+    ¦           DuyetNhac.png
+    ¦           ThemNhac.drawio
+    ¦           ThemNhac.png
+    ¦           XemThongKe.drawio
+    ¦           XemThongKe.png
+    ¦           XoaNguoiDung.drawio
+    ¦           XoaNguoiDung.png
+    ¦           XoaNhac.drawio
+    ¦           XoaNhac.png
+    ¦           XuLyBaoCao.drawio
+    ¦           XuLyBaoCao.png
+    ¦           
+    +---DFD
+    ¦       Data Flow Diagram.drawio
+    ¦       Khai quat.png
+    ¦       Luong du lieu 1.png
+    ¦       Luong du lieu 2.png
+    ¦       
+    +---ERD
+    ¦       MusicListeningAppERD.drawio
+    ¦       MusicListeningAppERD.png
+    ¦       
+    +---UseCase
+            .$Phan ra Admin.drawio.bkp
+            .$Phan ra User.drawio.bkp
+            .$UseCaseTongQuat.drawio.bkp
+            Phan ra Admin.drawio
+            Phan ra Admin.png
+            Phan ra User.drawio
+            Phan ra User.png
+            UseCaseTongQuat.drawio
+            Usecasetongquat.png
+            
